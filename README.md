@@ -15,6 +15,8 @@ All reviews will be organized as follows:
 
 Seperate entries will be created for [Country], [Company Name] and [Recruiter Name]
 
-Please describe your experiences in separate paragraphs inside the [Recruiter Name].md file. If you like to share your experiences anonymously, feel free to send them through an email to RecruiterBlackList@gmail.com. Please anonymise your experiences as much as possible before submitting.
+Please describe your experiences in separate paragraphs inside the [Recruiter Name].md file. If you like to share your experiences anonymously, feel free to send them through an email to RecruiterBlackList@gmail.com. 
+
+Any personal attackson recruiters will not be tolerated. All reviews must strictly be related to the professional interaction between you and recruiters. Complaints about ghosting, lack of response, lack of knowledge, not being prepared, calling late etc are welcome. Discussion on race, gender, looks, accent etc will not be accepted.
 
 Comments and suggestions are always welcome.
