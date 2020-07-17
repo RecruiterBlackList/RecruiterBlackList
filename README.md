@@ -2,6 +2,7 @@ The purpose of this repository is to call out terrible recruiters and companies 
 
 All reviews will be organized as follows:
 
+```yaml
 -- Repo Root
   -- [Country]
     -- Tech Companies
@@ -10,6 +11,7 @@ All reviews will be organized as follows:
     -- Recruitment Agencies
       -- [Company Name]
         -- [Recruiter Name].md
+```
 
 Seperate entries will be created for [Country], [Company Name] and [Recruiter Name]
 
