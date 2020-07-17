@@ -1,16 +1,18 @@
-### Hi there 👋
+The purpose of this repository is to call out terrible recruiters and companies with terrible recruitment practices in the tech industry.
 
-<!--
-**RecruiterBlackList/RecruiterBlackList** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+All reviews will be organized as follows:
 
-Here are some ideas to get you started:
+-- Repo Root
+  -- [Country]
+    -- Tech Companies
+      -- [Company Name]
+        -- [Recruiter Name].md
+    -- Recruitment Agencies
+      -- [Company Name]
+        -- [Recruiter Name].md
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seperate entries will be created for [Country], [Company Name] and [Recruiter Name]
+
+Please describe your experiences in separate paragraphs inside the [Recruiter Name].md file. If you like to share your experiences anonymously, feel free to send them through an email to RecruiterBlackList@gmail.com. Please anonymise your experiences as much as possible before submitting.
+
+Comments and suggestions are always welcome.
